@@ -1,2 +1,3 @@
 # Quan.ai
-Quan AI
+
+Quan.ai Is Quantitative Trading System Base AI
